@@ -1,6 +1,10 @@
 # Metal-Wallet
 
 ---
+![Render_17](https://user-images.githubusercontent.com/71924682/203591296-16bffdfb-9b36-451b-bce3-204c8ad18212.jpg)
+---
+![Render_16](https://user-images.githubusercontent.com/71924682/203591304-5caf01fd-102b-4c40-a7aa-0c3f92ade826.jpg)
+---
 ![Packaging_Card](https://user-images.githubusercontent.com/71924682/202274403-b51c88dd-1af9-44d8-9e3a-9f8cced4fe1a.png)
 ---
 ![Render_2_70](https://user-images.githubusercontent.com/71924682/202274654-2aea1045-157f-4eb2-8435-8a4cc698d676.png)
